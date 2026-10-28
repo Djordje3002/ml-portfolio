@@ -1,0 +1,62 @@
+[
+  {
+    "order": 1,
+    "repository": "wine-quality-ml",
+    "url": "https://github.com/Djordje3002/wine-quality-ml",
+    "title": "Wine Quality Lab",
+    "level": "Beginner",
+    "description": "Leakage-aware wine quality regression with cross-validation, baseline comparisons, and feature analysis.",
+    "module": "wine_quality",
+    "test_count": 7
+  },
+  {
+    "order": 2,
+    "repository": "sms-spam-detector",
+    "url": "https://github.com/Djordje3002/sms-spam-detector",
+    "title": "SMS Spam Detector",
+    "level": "Intermediate",
+    "description": "Duplicate-aware SMS spam detection with TF-IDF, validation-selected thresholds, and precision-recall evaluation.",
+    "module": "sms_spam",
+    "test_count": 10
+  },
+  {
+    "order": 3,
+    "repository": "bike-demand-forecasting",
+    "url": "https://github.com/Djordje3002/bike-demand-forecasting",
+    "title": "Bike Demand Forecasting",
+    "level": "Intermediate+",
+    "description": "One-day-ahead bike demand forecasting with past-only features, rolling backtests, and seasonal baselines.",
+    "module": "bike_forecast",
+    "test_count": 7
+  },
+  {
+    "order": 4,
+    "repository": "movielens-recommender",
+    "url": "https://github.com/Djordje3002/movielens-recommender",
+    "title": "MovieLens Recommender",
+    "level": "Advanced",
+    "description": "Temporal collaborative filtering with regularized matrix factorization, full-catalog ranking, and popularity baselines.",
+    "module": "movie_recs",
+    "test_count": 8
+  },
+  {
+    "order": 5,
+    "repository": "digits-cnn-lab",
+    "url": "https://github.com/Djordje3002/digits-cnn-lab",
+    "title": "Digits CNN Lab",
+    "level": "Advanced",
+    "description": "CPU-friendly PyTorch image classification with checkpoint selection, linear baselines, and error analysis.",
+    "module": "digits_cnn",
+    "test_count": 7
+  },
+  {
+    "order": 6,
+    "repository": "concrete-strength-mlops",
+    "url": "https://github.com/Djordje3002/concrete-strength-mlops",
+    "title": "Concrete Strength MLOps",
+    "level": "Advanced systems",
+    "description": "Measured concrete strength regression served through a validated API with conformal intervals and input-range monitoring.",
+    "module": "concrete_ml",
+    "test_count": 13
+  }
+]
